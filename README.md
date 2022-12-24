@@ -1,6 +1,6 @@
-create a file ok.txt and paste /etc/passwd there ...
+Step#1: create a file ok.txt and paste /etc/passwd there ...
 
-then open the file like this :
+Step#2: then open the file like this :
 
 http://localhost/path.php?thepath and you'll get a text file named path.txt which will have this ..:
 /usr/home/anitabs/
@@ -13,6 +13,9 @@ or
 /home/pkmfim/
 /home/dkiiad/
 /home/salonzu/
+
+
+Important INSTRUCTIONS :
 
 if you put access-log in the parameter :
 
